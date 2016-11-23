@@ -1226,7 +1226,7 @@ def get_tag_to_attributes():
         'ui:spinner' : {
                     'class':'String',
                     'isVisible':'Boolean',
-                    'toggle':'COMPONENT'}
+                    'toggle':'COMPONENT'},
 
 
     }
